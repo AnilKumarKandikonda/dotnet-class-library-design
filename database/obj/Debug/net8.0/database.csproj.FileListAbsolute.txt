@@ -1,0 +1,14 @@
+C:\Users\anilk\Desktop\PROJECTD\database\database\bin\Debug\net8.0\database.deps.json
+C:\Users\anilk\Desktop\PROJECTD\database\database\bin\Debug\net8.0\database.runtimeconfig.json
+C:\Users\anilk\Desktop\PROJECTD\database\database\bin\Debug\net8.0\database.dll
+C:\Users\anilk\Desktop\PROJECTD\database\database\bin\Debug\net8.0\database.pdb
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.csproj.AssemblyReference.cache
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.AssemblyInfoInputs.cache
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.AssemblyInfo.cs
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.csproj.CoreCompileInputs.cache
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.dll
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\refint\database.dll
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.pdb
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\database.genruntimeconfig.cache
+C:\Users\anilk\Desktop\PROJECTD\database\database\obj\Debug\net8.0\ref\database.dll
